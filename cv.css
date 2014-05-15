@@ -1,0 +1,53 @@
+
+body  {font-size: 11pt;font-family: Verdana; margin-top: 0pt; margin-left: 0pt; margin-right:0pt; margin-bottom: 0pt;}
+td  {font-size: 11pt;font-family: Verdana;}
+TD {font-size: 11pt;font-family: Verdana;}
+
+.content {margin-left: 10pt; margin-right: 10pt;}
+
+.title {font-size: 15pt; font-family: Verdana; font-weight: bold; color: #eee;text-align:left; margin-left: 110pt; padding-top: 10pt;}
+.subtitle {font-size: 12pt;font-family: Verdana;text-align:center;font-weight: bold; }
+.academicRecord  {font-size: 12pt;font-family: Verdana;font-weight: bold; }
+.products {font-size: 12pt;font-family: Verdana;text-align:center;font-weight: bold; }
+.posts {font-size: 12pt;font-family: Verdana;text-align:center;font-weight: bold; }
+.professionalRecord {font-size: 12pt;font-family: Verdana;text-align:center;font-weight: bold; }
+.systemAnalysis {font-size: 12pt;font-family: Verdana;text-align:center;font-weight: bold; }
+.codingLanguages {font-size: 12pt;font-family: Verdana;text-align:center;font-weight: bold; }
+.httpd {font-size: 12pt;font-family: Verdana;text-align:center;font-weight: bold; }
+.languages {font-size: 12pt;font-family: Verdana;text-align:center;font-weight: bold; }
+.OS {font-size: 12pt;font-family: Verdana;text-align:center;font-weight: bold; }
+.DBM {font-size: 12pt;font-family: Verdana;text-align:center;font-weight: bold; }
+.booksOnShelf {font-size: 12pt;font-family: Verdana;text-align:center;font-weight: bold; }
+.data {font-size: 8pt;font-family: Verdana; text-align: left; font-weight: bold; color: #999999;}
+.toLanguages {font-size: 8pt;font-family: Verdana; text-align: right; font-weight: bold; color: #999999; color: #eee; margin-right: 10pt; margin-top: -12pt;}
+.label {font-size: 11pt;font-family: Verdana;text-align:center;font-weight: bold; color: #999999 }
+.justified {text-align:justify;}
+A { text-decoration: none; color: #666666; font-weight: bold;}
+A:hover {text-decoration: none; color: #6d0019}
+.bck_bar .toLanguages A { text-decoration: none; color: #eee; font-weight: bold; text-align: right;}
+.bck_bat .toLanguages {font-size: 8pt;font-family: Verdana;text-align: right;font-weight: bold; color: #eee;}
+
+.personalData {margin-left: 100pt; margin-top: 5pt;}
+.section {border-bottom: 2px solid #6d0019; width: 100%; text-align: left; vertical-align: bottom; color: #6d0019}
+
+.bck_bar {
+	height: 40pt;
+	background: -moz-linear-gradient(top,  rgba(26,26,26,0.65) 34%, rgba(26,26,26,0.26) 74%, rgba(26,26,26,0) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(34%,rgba(26,26,26,0.65)), color-stop(74%,rgba(26,26,26,0.26)), color-stop(100%,rgba(26,26,26,0))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(26,26,26,0.65) 34%,rgba(26,26,26,0.26) 74%,rgba(26,26,26,0) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(26,26,26,0.65) 34%,rgba(26,26,26,0.26) 74%,rgba(26,26,26,0) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(26,26,26,0.65) 34%,rgba(26,26,26,0.26) 74%,rgba(26,26,26,0) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(26,26,26,0.65) 34%,rgba(26,26,26,0.26) 74%,rgba(26,26,26,0) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a61a1a1a', endColorstr='#001a1a1a',GradientType=0 ); /* IE6-9 */
+
+}
+
+.right { float: right; width: 35%; background-color: #fcfcfc; padding: 5pt;}
+
+.photo {
+	position: absolute;
+	top: 11pt;
+    left: 10pt;
+}
+
+
