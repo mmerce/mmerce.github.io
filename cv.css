@@ -22,7 +22,7 @@ TD {font-size: 11pt;font-family: Verdana;}
 .toLanguages {font-size: 8pt;font-family: Verdana; text-align: right; font-weight: bold; color: #999999; color: #eee; margin-right: 10pt; margin-top: -12pt;}
 .label {font-size: 11pt;font-family: Verdana;text-align:center;font-weight: bold; color: #999999 }
 .justified {text-align:justify;}
-A { text-decoration: none; color: #666666; font-weight: bold;}
+A { text-decoration: none; color: #333333; font-weight: bold;}
 A:hover {text-decoration: none; color: #6d0019}
 .bck_bar .toLanguages A { text-decoration: none; color: #eee; font-weight: bold; text-align: right;}
 .bck_bat .toLanguages {font-size: 8pt;font-family: Verdana;text-align: right;font-weight: bold; color: #eee;}
@@ -35,7 +35,8 @@ A:hover {text-decoration: none; color: #6d0019}
 	background: rgba(26,26,26,0.65);
 }
 
-.right { float: right; width: 35%; background-color: #fcfcfc; padding: 5pt;}
+.about {padding: 4pt; left-padding: 20pt;}
+.right { float: right; width: 35%; padding: 5pt;}
 
 .photo {
 	position: absolute;
