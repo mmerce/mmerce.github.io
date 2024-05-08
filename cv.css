@@ -35,7 +35,7 @@ A:hover {text-decoration: none; color: #6d0019}
 	background: rgba(26,26,26,0.65);
 }
 
-.about {padding: 4pt; left-padding: 20pt;}
+.about {padding: 4pt; padding-left: 20pt; vertical-align:top;}
 .right { float: right; width: 35%; padding: 5pt;}
 
 .photo {
